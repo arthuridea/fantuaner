@@ -1,6 +1,0 @@
-F:\Tech\Apps\Web\fantuaner\fanfouModel\bin\Release\fanfouModel.dll
-F:\Tech\Apps\Web\fantuaner\fanfouModel\obj\Release\ResolveAssemblyReference.cache
-F:\Tech\Apps\Web\fantuaner\fanfouModel\obj\Release\fanfouModel.dll
-E:\Projects\ArthurWebProj\fantuaner\fanfouModel\bin\Release\fanfouModel.dll
-E:\Projects\ArthurWebProj\fantuaner\fanfouModel\obj\Release\ResolveAssemblyReference.cache
-E:\Projects\ArthurWebProj\fantuaner\fanfouModel\obj\Release\fanfouModel.dll

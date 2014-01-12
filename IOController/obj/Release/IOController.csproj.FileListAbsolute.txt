@@ -1,6 +1,0 @@
-E:\Projects\ArthurWebProj\fantuaner\IOController\obj\Release\ResolveAssemblyReference.cache
-E:\Projects\ArthurWebProj\fantuaner\IOController\bin\Release\ControlEngine.dll
-E:\Projects\ArthurWebProj\fantuaner\IOController\obj\Release\ControlEngine.dll
-F:\Tech\Apps\Web\fantuaner\IOController\bin\Release\ControlEngine.dll
-F:\Tech\Apps\Web\fantuaner\IOController\obj\Release\ResolveAssemblyReference.cache
-F:\Tech\Apps\Web\fantuaner\IOController\obj\Release\ControlEngine.dll
