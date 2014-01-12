@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="FanfouDisney.cloud" %><!DOCTYPE html>
 <html>
   <head>
-    <title>饭团儿-没节操的饭否工具ˊ_>ˋ</title>
+    <title>饭团儿 - 没节操的饭否工具ˊ_>ˋ</title>
     <link rel="stylesheet" type="text/css" href="Scripts/jqcloud/jqcloud.css" />
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.js"></script>
     <script type="text/javascript" src="Scripts/jqcloud/jqcloud-1.0.4.js"></script>
