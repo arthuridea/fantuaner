@@ -1,0 +1,14 @@
+E:\Projects\ArthurWebProj\fantuaner\FanfouDisney\obj\Release\ResolveAssemblyReference.cache
+E:\Projects\ArthurWebProj\fantuaner\FanfouDisney\bin\FanfouDisney.dll
+E:\Projects\ArthurWebProj\fantuaner\FanfouDisney\bin\FanfouDisney.pdb
+E:\Projects\ArthurWebProj\fantuaner\FanfouDisney\bin\FanfouBiz.dll
+E:\Projects\ArthurWebProj\fantuaner\FanfouDisney\bin\fanfouModel.dll
+E:\Projects\ArthurWebProj\fantuaner\FanfouDisney\bin\fanTrick.dll
+E:\Projects\ArthurWebProj\fantuaner\FanfouDisney\bin\OAuthBasicApp.dll
+E:\Projects\ArthurWebProj\fantuaner\FanfouDisney\bin\EPPlus.dll
+E:\Projects\ArthurWebProj\fantuaner\FanfouDisney\bin\Common.dll
+E:\Projects\ArthurWebProj\fantuaner\FanfouDisney\bin\System.Data.SQLite.dll
+E:\Projects\ArthurWebProj\fantuaner\FanfouDisney\bin\fanTrick.pdb
+E:\Projects\ArthurWebProj\fantuaner\FanfouDisney\bin\EPPlus.xml
+E:\Projects\ArthurWebProj\fantuaner\FanfouDisney\obj\Release\FanfouDisney.dll
+E:\Projects\ArthurWebProj\fantuaner\FanfouDisney\obj\Release\FanfouDisney.pdb
