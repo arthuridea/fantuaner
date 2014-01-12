@@ -1,0 +1,10 @@
+F:\Tech\Apps\Web\fantuaner\fanfouModel\bin\Debug\fanfouModel.dll
+F:\Tech\Apps\Web\fantuaner\fanfouModel\bin\Debug\fanfouModel.pdb
+F:\Tech\Apps\Web\fantuaner\fanfouModel\obj\Debug\ResolveAssemblyReference.cache
+F:\Tech\Apps\Web\fantuaner\fanfouModel\obj\Debug\fanfouModel.dll
+F:\Tech\Apps\Web\fantuaner\fanfouModel\obj\Debug\fanfouModel.pdb
+E:\Projects\ArthurWebProj\fantuaner\fanfouModel\bin\Debug\fanfouModel.dll
+E:\Projects\ArthurWebProj\fantuaner\fanfouModel\bin\Debug\fanfouModel.pdb
+E:\Projects\ArthurWebProj\fantuaner\fanfouModel\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\ArthurWebProj\fantuaner\fanfouModel\obj\Debug\fanfouModel.dll
+E:\Projects\ArthurWebProj\fantuaner\fanfouModel\obj\Debug\fanfouModel.pdb

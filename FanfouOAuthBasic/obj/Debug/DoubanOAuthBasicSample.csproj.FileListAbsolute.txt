@@ -1,0 +1,12 @@
+F:\Tech\Apps\Web\fork\doubanoauth\csharp\DoubanOAuthBasicSample\DoubanOAuthBasicSample\obj\Debug\ResolveAssemblyReference.cache
+F:\Tech\Apps\Web\fork\doubanoauth\csharp\DoubanOAuthBasicSample\DoubanOAuthBasicSample\bin\Debug\OAuthBasicApp.dll
+F:\Tech\Apps\Web\fork\doubanoauth\csharp\DoubanOAuthBasicSample\DoubanOAuthBasicSample\bin\Debug\OAuthBasicApp.pdb
+F:\Tech\Apps\Web\fork\doubanoauth\csharp\DoubanOAuthBasicSample\DoubanOAuthBasicSample\obj\Debug\OAuthBasicApp.dll
+F:\Tech\Apps\Web\fork\doubanoauth\csharp\DoubanOAuthBasicSample\DoubanOAuthBasicSample\obj\Debug\OAuthBasicApp.pdb
+F:\Tech\Apps\Web\fantuaner\DoubanOAuthBasicSample\bin\Debug\OAuthBasicApp.dll
+F:\Tech\Apps\Web\fantuaner\DoubanOAuthBasicSample\bin\Debug\OAuthBasicApp.pdb
+F:\Tech\Apps\Web\fantuaner\DoubanOAuthBasicSample\obj\Debug\ResolveAssemblyReference.cache
+F:\Tech\Apps\Web\fantuaner\DoubanOAuthBasicSample\obj\Debug\OAuthBasicApp.dll
+F:\Tech\Apps\Web\fantuaner\DoubanOAuthBasicSample\obj\Debug\OAuthBasicApp.pdb
+F:\Tech\Apps\Web\fantuaner\DoubanOAuthBasicSample\bin\Debug\fanfouModel.dll
+F:\Tech\Apps\Web\fantuaner\DoubanOAuthBasicSample\bin\Debug\fanfouModel.pdb

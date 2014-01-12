@@ -1,0 +1,10 @@
+F:\Tech\Apps\Web\fantuaner\IOController\bin\Debug\ControlEngine.dll
+F:\Tech\Apps\Web\fantuaner\IOController\bin\Debug\ControlEngine.pdb
+F:\Tech\Apps\Web\fantuaner\IOController\obj\Debug\ResolveAssemblyReference.cache
+F:\Tech\Apps\Web\fantuaner\IOController\obj\Debug\ControlEngine.dll
+F:\Tech\Apps\Web\fantuaner\IOController\obj\Debug\ControlEngine.pdb
+E:\Projects\ArthurWebProj\fantuaner\IOController\bin\Debug\ControlEngine.dll
+E:\Projects\ArthurWebProj\fantuaner\IOController\bin\Debug\ControlEngine.pdb
+E:\Projects\ArthurWebProj\fantuaner\IOController\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\ArthurWebProj\fantuaner\IOController\obj\Debug\ControlEngine.dll
+E:\Projects\ArthurWebProj\fantuaner\IOController\obj\Debug\ControlEngine.pdb

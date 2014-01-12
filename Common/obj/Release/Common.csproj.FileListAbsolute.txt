@@ -1,0 +1,8 @@
+F:\Tech\Apps\Web\fantuaner\Common\bin\Release\Common.dll
+F:\Tech\Apps\Web\fantuaner\Common\obj\Release\ResolveAssemblyReference.cache
+F:\Tech\Apps\Web\fantuaner\Common\obj\Release\Common.dll
+E:\Projects\ArthurWebProj\fantuaner\Common\bin\Release\Common.dll
+E:\Projects\ArthurWebProj\fantuaner\Common\obj\Release\ResolveAssemblyReference.cache
+E:\Projects\ArthurWebProj\fantuaner\Common\obj\Release\Common.dll
+E:\Projects\ArthurWebProj\fantuaner\Common\bin\Release\System.Data.SQLite.DLL
+F:\Tech\Apps\Web\fantuaner\Common\bin\Release\System.Data.SQLite.DLL
