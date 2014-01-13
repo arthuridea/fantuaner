@@ -1,0 +1,8 @@
+﻿@charset "utf-8";
+/* CSS Document */
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, form, p, img{margin:0;padding:0;/*word-wrap:break-word;*/font-family:Microsoft YaHei,simsun;font-size:12px;list-style-type:none;border:0 none;}
+html{overflow:auto;}
+html,body{height:100%;}
+input, textarea{padding: 4px; margin:2px;border: solid 1px #E5E5E5;border-radius:3px; outline: 0;font: normal 12px/100% Verdana, Tahoma, sans-serif;background: #FFFFFF url(../images/bg_form.png) left top repeat-x;background: -webkit-gradient(linear, left top, left 25, from(#FFFFFF), color-stop(4%, #EEEEEE), to(#FFFFFF));background: -moz-linear-gradient(top, #FFFFFF, #EEEEEE 1px, #FFFFFF 25px); box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;-moz-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;-webkit-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;} 
+#ipt_userid{width:300px;font-size:18px;height:20px;line-height:20px;}
+.query{height:60px;line-height:60px;color:#fff;font-size:16px;background:#555;box-shadow:rgba(0,0,0, 0.5) 2px 2px 8px;padding:5px 15px;}

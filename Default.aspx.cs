@@ -14,6 +14,10 @@ namespace FanfouDisney
     public partial class cloud : System.Web.UI.Page
     {
         public string tag = "";
+        //private static readonly string ConsumerKey = "0e0ae1d4edc50be8ddbc6c0bcc83c309";
+        //private static readonly string ConsumerSecret = "8a77d03b3d8665bf77225a02eab0e93b";
+        //private static readonly string ConsumerKey = "757c6dc30a1ac11321a2788b38c2c3af";
+        //private static readonly string ConsumerSecret = "5249c68a77158806dba9bb492ea1afe3";
         private static readonly string ConsumerKey = "a8b9ae213b7242d93e0a350733fbb7d7";
         private static readonly string ConsumerSecret = "852f1b11ce82797ef617d7a3d7a282b9";
 
@@ -42,6 +46,15 @@ namespace FanfouDisney
                 if (Session["accessToken"] != null && Session["accessTokenSecret"] != null)
                 {
                     //已认证
+                    //if (Session["currentUser"] == null)
+                    //{
+                    //    User currentUserProfile = VerifyUser();
+                    //    Session["currentUser"] = currentUserProfile;
+                    //}
+                    //else if (Session["queryId"] == null)
+                    //{
+                    //    Session["queryId"] = ((User)Session["currentUser"]).id;
+                    //}
                     string u = Session["queryId"].ToString();
                     if (!string.IsNullOrEmpty(u))
                     {
@@ -136,6 +149,22 @@ namespace FanfouDisney
                     notAuthorizeErrMsg = xmlrs;
                 }
                 return false;
+            }
+        }
+
+        private User VerifyUser()
+        {
+            ReturnObject ro = FanfouBizController.VerifyCredentials();
+            if (ro.Code == 1)//成功登录
+            {
+                string ustr = ro.Text;
+                User u = JSON.parse<User>(ustr);
+                return u;
+            }
+            else
+            {
+                System.Diagnostics.Debug.WriteLine(ro.Text);
+                return null;
             }
         }
 
