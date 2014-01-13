@@ -9,6 +9,9 @@
   </head>
   <body>
     <div class="query">输入用户ID：<input type="text" id="ipt_userid" value='<%=Session["queryId"] %>' /> <button id="btn_changeUser">查　询</button></div>
+    <div>
+    <span id="errorMsg" runat="server"></span>
+    </div>
     <div id="my_favorite_latin_words" style="width: 90% ;height:600px;font-size:16px; margin:0 auto;font-family:'Microsoft Yahei'"></div>
     <script type="text/javascript">
         $("#btn_changeUser").click(function () {
