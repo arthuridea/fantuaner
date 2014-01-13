@@ -14,12 +14,12 @@ namespace FanfouDisney
     public partial class cloud : System.Web.UI.Page
     {
         public string tag = "";
-        private static readonly string ConsumerKey = "0e0ae1d4edc50be8ddbc6c0bcc83c309";
-        private static readonly string ConsumerSecret = "8a77d03b3d8665bf77225a02eab0e93b";
+        //private static readonly string ConsumerKey = "0e0ae1d4edc50be8ddbc6c0bcc83c309";
+        //private static readonly string ConsumerSecret = "8a77d03b3d8665bf77225a02eab0e93b";
         //private static readonly string ConsumerKey = "757c6dc30a1ac11321a2788b38c2c3af";
         //private static readonly string ConsumerSecret = "5249c68a77158806dba9bb492ea1afe3";
-        //private static readonly string ConsumerKey = "a8b9ae213b7242d93e0a350733fbb7d7";
-        //private static readonly string ConsumerSecret = "852f1b11ce82797ef617d7a3d7a282b9";
+        private static readonly string ConsumerKey = "a8b9ae213b7242d93e0a350733fbb7d7";
+        private static readonly string ConsumerSecret = "852f1b11ce82797ef617d7a3d7a282b9";
 
         private static string requestToken = "";
         private static string requestTokenSecret = "";
